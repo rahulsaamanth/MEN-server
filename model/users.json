@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Rahul2",
+    "roles": { "Editor": 1984, "User": 2001 },
+    "password": "$2b$10$Wq1DtEsQeRjs/3cSTqubZexqnmG1cGz3.4ZvpGrtmED4LwUWknlTm",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJhaHVsMiIsImlhdCI6MTcwMzMyMDU3OCwiZXhwIjoxNzAzNDA2OTc4fQ.eyrbCifO3pMVQ8nenCtYCkjsSx48noClRHte48C8PyE"
+  },
+  {
+    "username": "Saamanth1",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$WwiIu9x1F4rpbDeZ6awG9uMho9CSMDNU83vFZm742r.ggVer8m19G",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNhYW1hbnRoMSIsImlhdCI6MTcwMzMyMDYxOCwiZXhwIjoxNzAzNDA3MDE4fQ.zfW-7qyP-7iKg6jEZseyHOHTUUfX4x5yFp0n5mX494Q"
+  },
+  {
+    "username": "Rahul1",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$eqexR.WhziMfNRFaW2Fr2.OVUYJxEkj5X6sFIF8NoAdh2xCf8zKU.",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJhaHVsMSIsImlhdCI6MTcwMzMyMDY4OCwiZXhwIjoxNzAzNDA3MDg4fQ.10XZxSYpVn-1jBra9fYlt7S5anDfmGNoXNv29fjI2WY"
+  }
+]

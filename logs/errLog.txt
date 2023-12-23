@@ -1,0 +1,9 @@
+20231214	15:11:28	9470cb58-778b-4aeb-955a-4dce80d45ac8	Error: Not allowed by CORS
+20231214	15:11:28	9069ba05-c4dc-4aba-a7bc-9e28e8d852a8	Error: Not allowed by CORS
+20231214	16:25:41	5e6e74ff-17f6-49c9-a4b9-210a90ec9a07	ReferenceError: path is not defined
+20231214	16:41:12	2eae0b0a-93f3-4ec5-a2d3-d5fdf5716d46	Error: ENOENT: no such file or directory, stat '/home/rahulsaamanth/Code0/Node/express/routes/new-page.html'
+20231214	23:58:50	fb4c7575-af0e-49f6-968d-746be4507243	SyntaxError: Expected double-quoted property name in JSON at position 21
+20231215	00:02:23	5cc74202-15e6-4a7f-ac8e-75aaa2b443af	TypeError: req.json is not a function
+20231223	14:01:34	626c208d-d390-4a67-9bd4-69e7024cccdc	TypeError: authHeader?.starsWith is not a function
+20231223	16:59:14	c04b7d31-683b-482b-9629-b84f5e4a5970	SyntaxError: Expected property name or '}' in JSON at position 4
+20231223	17:24:55	0b840d9d-0a2f-4988-bbcc-6505aa3aa1f2	SyntaxError: Expected double-quoted property name in JSON at position 38
